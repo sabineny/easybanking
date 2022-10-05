@@ -1,0 +1,135 @@
+*body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.one ul{
+   display: flex; 
+   list-style-type: none;
+   gap: 40px;
+   justify-content: center;
+   
+   
+}
+button{
+    margin-left: 200px;
+    border-radius: 13px;
+    width: 100px;
+    height: 30px;
+    color: aliceblue;
+    background-color: rgb(151, 239, 151);
+    border: none;
+    background-image: linear-gradient(to right, rgb(80, 243, 80),rgb(85, 178, 222));
+
+    
+}
+.two{
+    background-color: rgb(254, 253, 251);
+    width: 100%;
+    height: 115vh;
+    display: flex;
+}
+.left1{
+    margin-left: 120px;
+    padding-top: 120px;
+}
+.left1 button{
+    margin-left: 5px;
+}
+.right1{
+    background-image: url(..//easybanking/images/bg-intro-desktop.svg);
+    width: 60%;
+    height: 115vh;
+    
+
+}
+.right1 img{
+    margin-top: 30px;
+    margin-left: 70px;
+    width: 700px;
+}
+.three{
+    background-color: rgb(245, 246, 248);
+    width: 100%;
+    height:100vh;
+    padding-left: 100px;
+    padding-top: 80px;
+}
+.three1{
+display: flex;
+gap: 30px;
+}
+
+.four{
+
+    width: 100%;
+    height:90vh;
+    padding-left: 100px;
+    padding-top: 80px;
+    background-color: rgb(247, 248, 250);
+    
+}
+.four1{
+display: flex;
+gap: 30px;
+
+}
+.four1 img{
+    width: 250px;
+    height: 25vh;
+}
+.footer{
+    background-color: #2D314D;
+    width:100% ;
+    height: 30vh;
+}
+.all img {
+    color: aliceblue;
+    margin-top: 30px;
+    margin-left: 80px;
+}
+.allicons{
+    display: flex;
+    gap: 0px;
+    
+}
+.footer{
+    display: flex;
+}
+.about ul{
+    color: aliceblue;
+    list-style-type: none;
+    margin-top: 45px;
+}
+.career ul{
+    color: aliceblue;
+    list-style-type: none;
+    margin-top: 45px;
+}
+.footer button{
+    margin-top: 30px;
+    margin-left: 200px;
+    
+}
+.footer p{
+    color: aliceblue;
+    margin-top: 100px;
+    
+    
+}
+.one ul li a{
+    text-decoration: none;
+    color: rgb(152, 147, 147);
+}
+.four1 h4:hover{
+color: green;
+}
+.one li:hover{
+    color: black;
+text-decoration: underline;
+text-decoration-thickness: 5px;
+
+}
+.a{
+    background-color:white;
+}
